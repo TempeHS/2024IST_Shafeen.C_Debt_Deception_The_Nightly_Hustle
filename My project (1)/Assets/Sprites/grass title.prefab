@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7665670602733856373}
   - component: {fileID: 7637614540130434663}
   - component: {fileID: 4478737878979911008}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Layer1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -164,7 +164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8649440242826252419}
   - component: {fileID: 8423632165116277961}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: grass title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -195,7 +195,7 @@ Grid:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7727225487642971912}
   m_Enabled: 1
-  m_CellSize: {x: 0.325, y: 0.325, z: 0}
+  m_CellSize: {x: 1, y: 1, z: 0}
   m_CellGap: {x: 0, y: 0, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
