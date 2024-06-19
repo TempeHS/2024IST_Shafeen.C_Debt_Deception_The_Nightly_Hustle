@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Portal : MonoBehaviour
 {
-    private HashSet<GameObject> portalObjects = new HashSet<GameObect>();
+    private HashSet<GameObject> portalObjects = new HashSet<GameObject>();
 
     [SerializeField] private Transform destination;
 
