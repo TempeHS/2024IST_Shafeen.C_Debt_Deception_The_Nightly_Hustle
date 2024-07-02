@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Grid
   - Teleporter
+  - OneWayPlatform
+  - Obstacle
   layers:
   - Default
   - TransparentFX
