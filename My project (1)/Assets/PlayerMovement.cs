@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
     private float speed = 8f;
     private float jumpingPower = 17f;
     private bool isFacingRight = true;
+    public Animator anim;
 
     private bool canDash = true;
     private bool isDashing;
@@ -14,10 +15,18 @@ public class PlayerMovement : MonoBehaviour
     private float dashingTime = 0.2f;
     private float dashingCooldown = 0f;
 
-    [SerializeField] private Rigidbody2D rb;
+    [SerializeField] private Rigidbody2D rb; 
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private TrailRenderer tr;
+
+    AudioManager audioManager;
+
+    private void awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>(); 
+    }
+    
 
     private void Update()
     {
@@ -44,6 +53,19 @@ public class PlayerMovement : MonoBehaviour
         }
 
         Flip();
+
+        if(horizontal >= 0.1f || horizontal <= -0.1f)
+        {
+            anim.SetBool("IsWalking", true);
+        }
+        else
+        {
+            anim.SetBool("IsWalking", false);
+            
+        }
+
+        anim.SetBool("IsJumping", !IsGrounded());     
+         
     }
 
     private void FixedUpdate()
@@ -54,6 +76,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
+         audioManager.PlaySFX(audioManager.Walking);
     }
 
     private bool IsGrounded()

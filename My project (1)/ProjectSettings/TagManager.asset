@@ -8,6 +8,7 @@ TagManager:
   - Teleporter
   - OneWayPlatform
   - Obstacle
+  - Audio
   layers:
   - Default
   - TransparentFX
