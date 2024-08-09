@@ -22,11 +22,7 @@ public class PlayerMovement : MonoBehaviour
 
     AudioManager audioManager;
 
-    private void awake()
-    {
-        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>(); 
-    }
-    
+
 
     private void Update()
     {
@@ -76,7 +72,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
-         audioManager.PlaySFX(audioManager.Walking);
+         
     }
 
     private bool IsGrounded()
