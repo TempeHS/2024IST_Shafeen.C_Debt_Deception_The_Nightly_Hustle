@@ -20,8 +20,12 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private TrailRenderer tr;
 
-    AudioManager audioManager;
+    AudioSource audioSrc;
 
+    void Start()
+    {
+        audioSrc = GetComponent<AudioSource>();
+    }
 
 
     private void Update()
@@ -53,11 +57,13 @@ public class PlayerMovement : MonoBehaviour
         if(horizontal >= 0.1f || horizontal <= -0.1f)
         {
             anim.SetBool("IsWalking", true);
+            if (!audioSrc.isPlaying)
+            audioSrc.Play();
         }
         else
         {
             anim.SetBool("IsWalking", false);
-            
+            audioSrc.Stop();
         }
 
         anim.SetBool("IsJumping", !IsGrounded());     
@@ -72,7 +78,6 @@ public class PlayerMovement : MonoBehaviour
         }
 
         rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
-         
     }
 
     private bool IsGrounded()
