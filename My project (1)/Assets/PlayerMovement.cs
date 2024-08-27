@@ -66,7 +66,12 @@ public class PlayerMovement : MonoBehaviour
             audioSrc.Stop();
         }
 
-        anim.SetBool("IsJumping", !IsGrounded());     
+        anim.SetBool("IsJumping", !IsGrounded());  
+
+        if (Input.GetMouseButtonDown(0)) 
+        {
+            anim.SetBool("IsAttacking", true);
+        }  
          
     }
 
