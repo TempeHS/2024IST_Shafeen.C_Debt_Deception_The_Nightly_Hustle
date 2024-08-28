@@ -70,9 +70,14 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0)) 
         {
-            anim.SetBool("IsAttacking", true);
+            anim.SetBool("IsAttacking", true); 
         }  
          
+    }
+
+    public void endAttack()
+    {
+        anim.SetBool("IsAttacking", false);
     }
 
     private void FixedUpdate()
