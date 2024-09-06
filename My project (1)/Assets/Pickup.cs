@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PickUp : MonoBehaviour
+public class Pickup : MonoBehaviour
 {
     private Inventory inventory;
     public GameObject itemButton;
@@ -19,7 +19,7 @@ public class PickUp : MonoBehaviour
                 if (inventory.isFull[i] == false) {
                     
                     inventory.isFull[i] = true;
-                    Instantiate(itemButton, inventory.slots[i]. transform, false);
+                    itemButton.SetActive(true);
                     Destroy(gameObject);
                     break;
                 }
