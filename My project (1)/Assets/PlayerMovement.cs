@@ -20,6 +20,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private TrailRenderer tr;
 
+    public GameObject Lazar;
+    private Vector3 LazarTarget;
 
     AudioSource audioSrc;
 
@@ -31,6 +33,16 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
+        if (isFacingRight)
+        {
+            LazarTarget = new Vector3(3, 0, 0);
+        }
+        else
+        {
+            LazarTarget = new Vector3(-3, 0, 0);
+        }
+
+
         if (isDashing)
         {
             return;
@@ -126,5 +138,11 @@ public class PlayerMovement : MonoBehaviour
         isDashing = false;
         yield return new WaitForSeconds(dashingCooldown);
         canDash = true;
+    }
+
+
+    public void SpawnLazar()
+    {
+        Instantiate(Lazar, transform.position + LazarTarget, Quaternion.identity);
     }
 }

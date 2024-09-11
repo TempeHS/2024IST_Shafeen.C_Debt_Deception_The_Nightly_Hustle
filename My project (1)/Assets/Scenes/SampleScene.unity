@@ -8366,7 +8366,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 3
       scalar: 1
-      minScalar: 0.5
+      minScalar: 0
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -8750,7 +8750,7 @@ ParticleSystem:
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 774.7, y: 1, z: 1}
+    m_Scale: {x: 585.5, y: 1, z: 1}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
@@ -8948,7 +8948,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 19.94
+      scalar: 22.5
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -12844,7 +12844,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 15, z: 0}
-  m_LocalScale: {x: -0.76, y: 0.5, z: 1}
+  m_LocalScale: {x: -0.46, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -14770,10 +14770,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 921550318}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 2110679764}
+        m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
+        m_MethodName: SpawnLazar
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -15057,7 +15057,6 @@ RectTransform:
   - {fileID: 527919856}
   - {fileID: 1713749222}
   - {fileID: 1142293531}
-  - {fileID: 512843587}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -15439,7 +15438,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 512843587}
   m_Father: {fileID: 980700731}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
@@ -20243,7 +20243,7 @@ Transform:
   m_GameObject: {fileID: 2110679762}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 124, y: -1.0046, z: 0}
+  m_LocalPosition: {x: -19.126, y: -0.933, z: 0}
   m_LocalScale: {x: 5.2666097, y: 5.4711394, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -20270,6 +20270,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   tr: {fileID: 2110679770}
+  Lazar: {fileID: 4883619656876100906, guid: bfb872e0f00d01f47b422e7d5d466e45, type: 3}
 --- !u!50 &2110679765
 Rigidbody2D:
   serializedVersion: 4
@@ -20665,7 +20666,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 980700731}
+    m_TransformParent: {fileID: 1142293531}
     m_Modifications:
     - target: {fileID: 5070586691770476670, guid: eefdd1220ef877c4c899db908ff80b94, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -20777,23 +20778,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8733056699266444758, guid: eefdd1220ef877c4c899db908ff80b94, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8733056699266444758, guid: eefdd1220ef877c4c899db908ff80b94, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8733056699266444758, guid: eefdd1220ef877c4c899db908ff80b94, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8733056699266444758, guid: eefdd1220ef877c4c899db908ff80b94, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 26
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8733056699266444758, guid: eefdd1220ef877c4c899db908ff80b94, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -221
+      value: -0.39559937
       objectReference: {fileID: 0}
     - target: {fileID: 8733056699266444758, guid: eefdd1220ef877c4c899db908ff80b94, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
