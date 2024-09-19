@@ -4842,7 +4842,7 @@ GameObject:
   - component: {fileID: 5326763560516742518}
   - component: {fileID: 5487535275158310896}
   - component: {fileID: 4824613507055391233}
-  - component: {fileID: 2867437122089648209}
+  - component: {fileID: 7027910327312414140}
   m_Layer: 0
   m_Name: dust
   m_TagString: Untagged
@@ -9707,7 +9707,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 5
---- !u!114 &2867437122089648209
+--- !u!114 &7027910327312414140
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9716,8 +9716,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4883619656876100906}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a0653efe66bb1944b9ce62ac1da8c261, type: 3}
+  m_Script: {fileID: 11500000, guid: 47990fefbdde9d84292bccb281f80af9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pHealth: {fileID: 0}
-  damage: 100
+  Speed: 4.5
