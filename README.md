@@ -1,6 +1,6 @@
 # 2024IST_Shafeen.C_
 <h1 align="center">
- <img src="![bro what happened (3)](https://github.com/user-attachments/assets/ddd9b424-756e-491f-a0e5-ecedf45d032e)
+ <img src="(https://github.com/user-attachments/assets/ddd9b424-756e-491f-a0e5-ecedf45d032e)
 ">
   <br />
 
