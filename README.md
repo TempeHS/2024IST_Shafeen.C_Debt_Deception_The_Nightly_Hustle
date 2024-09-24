@@ -6,10 +6,10 @@
 
 # Table of Contents
 
-1. [Overview](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#overview)
-2. [Walkthrough](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#walkthrough)
-3. [Tutorials](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#tutorials)
-4. [Documentation](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#documentation)
+1. [Overview](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Overview)
+2. [Walkthrough](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Walkthrough)
+3. [Tutorials](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Tutorials)
+4. [Documentation](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Documentation)
 
 # Overview
 
@@ -20,8 +20,6 @@ yadayada
 [video link]
 
 # Tutorials
-
-![The control scheme of my game for an xbox controller]("https://github.com/Swebwite/My%20project/Assets/Sprites/Control%20Scheme.png")
 
 # Documentation
 
