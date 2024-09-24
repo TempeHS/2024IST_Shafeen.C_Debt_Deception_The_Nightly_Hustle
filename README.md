@@ -1,6 +1,6 @@
 # 2024IST_Shafeen.C_
 <h1 align="center">
- <img src="(https://github.com/user-attachments/assets/ddd9b424-756e-491f-a0e5-ecedf45d032e)
+ <img src="https://github.com/user-attachments/assets/5d8f8dc4-1f40-44f7-8036-eb72ae60ac125159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
 ">
   <br />
 
