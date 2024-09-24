@@ -1,7 +1,7 @@
 # 2024IST_Shafeen.C_
 <h1 align="center">
- <img src="https://github.com/user-attachments/assets/5d8f8dc4-1f40-44f7-8036-eb72ae60ac125159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
-">
+ <img src="![bro what happened (3)](https://github.com/user-attachments/assets/adfcc042-fba7-427b-adbb-7e60ec458206)">
+
   <br />
 
 # Table of Contents
