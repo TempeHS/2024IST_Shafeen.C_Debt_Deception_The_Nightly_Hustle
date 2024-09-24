@@ -4842,6 +4842,7 @@ GameObject:
   - component: {fileID: 5326763560516742518}
   - component: {fileID: 5487535275158310896}
   - component: {fileID: 4824613507055391233}
+  - component: {fileID: -3785502145621824998}
   m_Layer: 0
   m_Name: dust
   m_TagString: Laser
@@ -9700,9 +9701,21 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 5
+--- !u!114 &-3785502145621824998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4883619656876100906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c97f4d4f478e104594130b18393a338, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

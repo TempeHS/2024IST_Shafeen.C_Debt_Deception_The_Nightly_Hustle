@@ -13,6 +13,9 @@ TagManager:
   - Laser
   - Coin
   - Door
+  - Enem,y
+  - enemy
+  - Enemy
   layers:
   - Default
   - TransparentFX
