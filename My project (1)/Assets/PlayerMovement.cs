@@ -15,6 +15,8 @@ public class PlayerMovement : MonoBehaviour
     private float dashingTime = 0.2f;
     private float dashingCooldown = 0f;
 
+     public CoinManager cm;
+
     [SerializeField] private Rigidbody2D rb; 
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
@@ -138,6 +140,15 @@ public class PlayerMovement : MonoBehaviour
         isDashing = false;
         yield return new WaitForSeconds(dashingCooldown);
         canDash = true;
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Coin"))
+        {  
+            Destroy(other.gameObject);
+            cm.coinCount ++;
+        }
     }
 
 

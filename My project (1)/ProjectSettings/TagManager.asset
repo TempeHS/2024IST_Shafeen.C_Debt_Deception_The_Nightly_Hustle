@@ -11,6 +11,8 @@ TagManager:
   - Audio
   - Ladder
   - Laser
+  - Coin
+  - Door
   layers:
   - Default
   - TransparentFX
