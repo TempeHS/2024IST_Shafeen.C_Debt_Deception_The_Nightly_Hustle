@@ -7,7 +7,7 @@
 # Table of Contents
 
 1. [Overview](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Overview)
-2. [Walkthrough](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Walkthrough)
+2. [Walkthroug](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Walkthrough)
 3. [Tutorials](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Tutorials)
 4. [Documentation](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Documentation)
 
