@@ -28,7 +28,7 @@ The game Debt Deception was made for the Year 10 assessment for Industrial Techn
  
  On the keyboard the keys A & D are used to move left and right when the space bar is pressed the character jumps in the air, and the left mouse is used to interact with the inventory slot. 
  
- On the controller, the left joystick allows the character to move left and right, and the button Y allows the character to jump, unfortunately, the dash and movement of the cursor are unresponsive in the game. 
+ On the controller, the left joystick allows the character to move left and right, and the button Y allows the character to jump, unfortunately, the dash and movement of the cursor are currently unresponsive in the game. 
    
 # What I intended to make 
 
