@@ -34,7 +34,7 @@ The game targets teenagers with credit cards, aiming to teach them about financi
 https://github.com/user-attachments/assets/0352a423-8671-4f86-b733-dcdaaf503fbe
 
 # Scripts 
-[All Scripts](#Myproject(1)/Assets/Scripts)
+[All Scripts](https://github.com/TempeHS/2024IST_Shafeen.C_Debt_Deception/tree/main/My%20project%20(1)/Assets/Scripts)
 # Assests 
 ## Player and Enemy
 
