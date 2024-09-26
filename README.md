@@ -15,7 +15,8 @@
 - [Scripts](#Scripts)
 - [Assests](#Assests)
 - [Tools used](#Tools-used)
-- [Showcase of Particle](#Showcase-of-Particle)
+- [Showcase of Particle](#Showcase-of-Particle)\
+- [Tutorials used](#Tutorials-used)
 
 # The aim of the assessment 
 The game Debt Deception was made for the Year 10 assessment for Industrial Technology, the topic being "Games for change" We were required to make a 2D Platformer Game using Unity, creating assets using Piskel and Github to create a respiratory for out game. Applying my understanding of programming and game engines, I produced a READ.md to promote the skills integrated into the game  to a future employer.
@@ -88,6 +89,17 @@ Piskel sprite creator
 <img src="https://github.com/user-attachments/assets/0d459e20-2da3-4553-b3bf-6acdf9195fee">
 
 <img src="https://github.com/user-attachments/assets/bc8983fa-4d77-4600-a142-b43e25ba5ee7">
+
+# Tutorials used 
+
+ Camera
+[Celeste's Camera Follow - Unity Cinemachine Tutorial](https://www.youtube.com/watch?v=yaQlRvHgIvE&t=1s)
+
+ Collectibles
+[Simple collectible coin system Unity Tutorial](https://www.youtube.com/watch?v=5GWRPwuWtsQ&t=553s)
+
+ Health Bar
+[How to make a Health Bar (Unity 2D Tutorial for Beginners)](https://www.youtube.com/watch?v=Gtw7VyuMdDc&t=1s)
  
 
 
