@@ -4,17 +4,20 @@
 
   <br />
 
-# The aim of the Assesment 
-The game Debt Deception was made for the Year 10 assessment for Industrial Technology, the topic being "Games for change" We were required to make a 2D Platformer Game using unity, creating assets using Piskel and Github to create a respiratory for out game. Applying my understanding of programming and game engines, I produced a READ.md to promote the skills integrated into the game  to a future employer.
-
 # Table of Contents
 - [Table of Contents](#Table-of-Contents)
+- [The aim of the assessment](#The-aim-of-the-assessment)
 - [Controls](#Controls)
-- [What I intended to make ](#What-Iintended-to-make)
+- [What I intended to make](#What-Iintended-to-make)
+- [What I made](#What-I-Made)
 - [Walkthrough](#Walk-through)
 - [Scripts](#Scripts)
-- [Assests](#Assets)
+- [Assests](#Assests)
 - [Tools used](#Tools-used)
+- [Showcase of Particle](#Showcase-of-Particle)
+
+# The aim of the assessment 
+The game Debt Deception was made for the Year 10 assessment for Industrial Technology, the topic being "Games for change" We were required to make a 2D Platformer Game using Unity, creating assets using Piskel and Github to create a respiratory for out game. Applying my understanding of programming and game engines, I produced a READ.md to promote the skills integrated into the game  to a future employer.
 
 # Controls 
  <img src="https://github.com/user-attachments/assets/8b027b23-5780-4cca-b613-65a23e56db8e" alt="Keyboard Controls" width="490">
@@ -31,11 +34,15 @@ I intended to make a game called Debt Deception, a 2D game designed for PC and c
 
 The game targets teenagers with credit cards, aiming to teach them about financial decisions' consequences and distinguishing between fake and real websites, hopefully potentially teaching them the differences between fake and a real website and learning about financial literacy. 
 
+# What I made 
+My game was fairly close to what I intended to make though unfortunately I was unable to make a selectable character option, a fake website. But was able to create a power that can only be used through a question and a fun challenge. 
+
 # Walkthrough
 https://github.com/user-attachments/assets/0352a423-8671-4f86-b733-dcdaaf503fbe
 
 # Scripts 
 [All Scripts](https://github.com/TempeHS/2024IST_Shafeen.C_Debt_Deception/tree/main/My%20project%20(1)/Assets/Scripts)
+
 # Assests 
 ## Player and Enemy
 
@@ -49,10 +56,9 @@ https://github.com/user-attachments/assets/0352a423-8671-4f86-b733-dcdaaf503fbe
 
  ## Other
   <img src="https://github.com/user-attachments/assets/a5b074b5-678b-4fb3-b9bc-bddbe343bf76">
-   
  
-
 # Tools used
+
 # Unity
   Unity Game Engine
  <img src="https://github.com/user-attachments/assets/aec1b3fd-124b-4e1c-a52a-068e30698597">
