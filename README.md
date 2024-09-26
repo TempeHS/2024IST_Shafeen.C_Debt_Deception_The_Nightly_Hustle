@@ -10,7 +10,7 @@
 - [Controls](#Controls)
 - [What I intended to make](#What-Iintended-to-make)
 - [What I made](#What-I-Made)
-- [Walkthrough](#Walk-through)
+- [Walkthrough](#Walkthrough)
 - [Scripts](#Scripts)
 - [Assests](#Assests)
 - [Tools used](#Tools-used)
