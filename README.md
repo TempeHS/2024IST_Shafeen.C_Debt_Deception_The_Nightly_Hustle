@@ -9,8 +9,9 @@
 - [The aim of the assessment](#The-aim-of-the-assessment)
 - [Controls](#Controls)
 - [What I intended to make](#What-I-intended-to-make)
-- [What I made](#What-I-Made)
 - [Walkthrough](#Walkthrough)
+- [What I made](#What-I-Made)
+- [Objective](#Objective)
 - [Scripts](#Scripts)
 - [Assests](#Assests)
 - [Tools used](#Tools-used)
@@ -34,11 +35,14 @@ I intended to make a game called Debt Deception, a 2D game designed for PC and c
 
 The game targets teenagers with credit cards, aiming to teach them about financial decisions' consequences and distinguishing between fake and real websites, hopefully potentially teaching them the differences between fake and a real website and learning about financial literacy. 
 
-# What I made 
-My game was fairly close to what I intended to make though unfortunately I was unable to make a selectable character option, a fake website. But was able to create a power that can only be used through a question and a fun challenge. 
-
 # Walkthrough
 https://github.com/user-attachments/assets/0352a423-8671-4f86-b733-dcdaaf503fbe
+
+# What I made 
+My game was fairly close to what I intended to make though unfortunately I was unable to make a selectable character option, a fake website. But was able to create a power laser beam that can only be used through a question and a very similar level which is like  Subway Surfers with coin collectibles to beat the game and many obstacle courses through the levels.\
+
+# Objective 
+The objective of the game is to answer the financial literacy quiz correctly to kill the zombies which contrasts with debt. In the next level, your objective is to collect all coins for the door to open to win. 
 
 # Scripts 
 [All Scripts](https://github.com/TempeHS/2024IST_Shafeen.C_Debt_Deception/tree/main/My%20project%20(1)/Assets/Scripts)
