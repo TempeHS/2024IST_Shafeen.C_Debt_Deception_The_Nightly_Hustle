@@ -33,6 +33,8 @@ The game targets teenagers with credit cards, aiming to teach them about financi
 # Walkthrough
 https://github.com/user-attachments/assets/0352a423-8671-4f86-b733-dcdaaf503fbe
 
+# Scripts 
+[All Scripts](#Myproject(1)/Assets/Scripts)
 # Assests 
 ## Player and Enemy
 
