@@ -15,7 +15,7 @@
 - [Scripts](#Scripts)
 - [Assests](#Assests)
 - [Tools used](#Tools-used)
-- [Showcase of Particle](#Showcase-of-Particle)\
+- [Showcase of Particle](#Showcase-of-Particle)
 - [Tutorials used](#Tutorials-used)
 
 # The aim of the assessment 
