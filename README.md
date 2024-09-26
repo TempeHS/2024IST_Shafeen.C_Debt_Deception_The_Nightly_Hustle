@@ -29,7 +29,7 @@
 The game Debt Deception was made for the Year 10 assessment for Industrial Technology, the topic being "Games for change" We were required to make a 2D Platformer Game using Unity, creating assets using Piskel and Github to create a respiratory for out game. Applying my understanding of programming and game engines, I produced a READ.md to promote the skills integrated into the game  to a future employer.
 
 # Controls 
- <img src="https://github.com/user-attachments/assets/8b027b23-5780-4cca-b613-65a23e56db8e" alt="Keyboard Controls" width="490">
+ <img src="https://github.com/user-attachments/assets/8b027b23-5780-4cca-b613-65a23e56db8e" alt="Keyboard Controls" width="560">
  <img src="https://github.com/user-attachments/assets/3489bddf-5b14-4ddb-afa6-abcf715dd4e8" width="120">
  <img src="https://github.com/user-attachments/assets/f181335e-0cff-4eb1-821a-d774502bb9d1" width="250">
  
