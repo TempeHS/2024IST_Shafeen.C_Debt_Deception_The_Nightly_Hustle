@@ -14,14 +14,14 @@
 - [Objective](#Objective)
 - [Scripts](#Scripts)
 - [Assests](#Assests)
-   - [Player and Enemy](##Player-and-Enemy)
-  - [Background and Tiles](##Background-and-Tiles)
-  - [UI](##UI)
-  - [Other](##Other)
+   - [Player and Enemy](#Player-and-Enemy)
+  - [Background and Tiles](#Background-and-Tiles)
+  - [UI](#UI)
+  - [Other](#Other)
 - [Tools used](#Tools-used)
-  - [Unity](##Unity)
-  - [Visual Code Studio](##Visual-Code-Studio)
-  - [Piskel](##Piskel)  
+  - [Unity](#Unity)
+  - [Visual Code Studio](#Visual-Code-Studio)
+  - [Piskel](#Piskel)  
 - [Showcase of Particle](#Showcase-of-Particle)
 - [Tutorials used](#Tutorials-used)
 
@@ -56,30 +56,30 @@ The objective of the game is to answer the financial literacy quiz correctly to 
 [All Scripts](https://github.com/TempeHS/2024IST_Shafeen.C_Debt_Deception/tree/main/My%20project%20(1)/Assets/Scripts)
 
 # Assests 
-## Player and Enemy
+# Player and Enemy
 
  <img src="https://github.com/user-attachments/assets/d0ca0c03-d8d0-45ff-aebf-427c4e3dfcd1">
 
- ## Background and Tiles
+ # Background and Tiles
  <img src="https://github.com/user-attachments/assets/16cca1b1-2293-41e0-a316-64d7d12cf0db">
 
- ## UI
+ # UI
   <img src="https://github.com/user-attachments/assets/6b71f98e-1da5-4197-b928-25d06ce3d311">
 
- ## Other
+ # Other
   <img src="https://github.com/user-attachments/assets/a5b074b5-678b-4fb3-b9bc-bddbe343bf76">
  
 # Tools used
 
-## Unity
+# Unity
   Unity Game Engine
  <img src="https://github.com/user-attachments/assets/aec1b3fd-124b-4e1c-a52a-068e30698597">
 
-## Visual Code Studio
+# Visual Code Studio
  Coding 
 <img src="https://github.com/user-attachments/assets/55be1371-2176-40b5-b61b-3150c9d13825">
 
-## Piskel 
+# Piskel 
 Piskel sprite creator
 <img src="https://github.com/user-attachments/assets/a02f75cb-1ce8-4581-9081-b50272556419">
 
