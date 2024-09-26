@@ -1,25 +1,33 @@
 # 2024IST_Shafeen.C_
 <h1 align="center">
- <img src="https://github.com/user-attachments/assets/adfcc042-fba7-427b-adbb-7e60ec458206">
+ <img src="https://github.com/user-attachments/assets/adfcc042-fba7-427b-adbb-7e60ec458206" width="500">
 
   <br />
 
 # Table of Contents
 
-1. [Overview](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Overview)
-2. [Walkthrough](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Walkthrough)
-3. [Tutorials](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Tutorials)
-4. [Documentation](https://github.com/TempeHS/2024IST_Shaf.C_?tab=readme-ov-file#Documentation)
+- [Table of Contents](#TableofContents)
+- [Controls](#Controls)
+- [Overview](#Overview)
+- [Walkthrough](#Walkthrough)
+- [Main scripts](#MainScripts)
+- [Assests](#Assets)
+- [Showcase of work](#Showcaseofwork)
+- [Documenation](#Documentation)
+
+# Controls 
 
 # Overview
-
-yadayada
 
 # Walkthrough
 
 [video link]
 
-# Tutorials
+# Main scripts 
+
+# Assests 
+
+# Showcase of work 
 
 # Documentation
 
