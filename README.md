@@ -14,7 +14,14 @@
 - [Objective](#Objective)
 - [Scripts](#Scripts)
 - [Assests](#Assests)
+   - [Player and Enemy](##Player-and-Enemy)
+  - [Background and Tiles](##Background-and-Tiles)
+  - [UI](##UI)
+  - [Other](##Other)
 - [Tools used](#Tools-used)
+  - [Unity](##Unity)
+  - [Visual Code Studio](##Visual-Code-Studio)
+  - [Piskel](##Piskel)  
 - [Showcase of Particle](#Showcase-of-Particle)
 - [Tutorials used](#Tutorials-used)
 
@@ -64,15 +71,15 @@ The objective of the game is to answer the financial literacy quiz correctly to 
  
 # Tools used
 
-# Unity
+## Unity
   Unity Game Engine
  <img src="https://github.com/user-attachments/assets/aec1b3fd-124b-4e1c-a52a-068e30698597">
 
- # Visual Code Studio
+## Visual Code Studio
  Coding 
 <img src="https://github.com/user-attachments/assets/55be1371-2176-40b5-b61b-3150c9d13825">
 
-# Piskel 
+## Piskel 
 Piskel sprite creator
 <img src="https://github.com/user-attachments/assets/a02f75cb-1ce8-4581-9081-b50272556419">
 
