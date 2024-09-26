@@ -8,7 +8,7 @@
 - [Table of Contents](#Table-of-Contents)
 - [The aim of the assessment](#The-aim-of-the-assessment)
 - [Controls](#Controls)
-- [What I intended to make](#What-Iintended-to-make)
+- [What I intended to make](#What-intended-to-make)
 - [What I made](#What-I-Made)
 - [Walkthrough](#Walkthrough)
 - [Scripts](#Scripts)
