@@ -21,7 +21,7 @@ The game Debt Deception was made for the Year 10 assessment for Industrial Techn
 
 # Controls 
  <img src="https://github.com/user-attachments/assets/8b027b23-5780-4cca-b613-65a23e56db8e" alt="Keyboard Controls" width="490">
- <img src="https://github.com/user-attachments/assets/3489bddf-5b14-4ddb-afa6-abcf715dd4e8" width="150">
+ <img src="https://github.com/user-attachments/assets/3489bddf-5b14-4ddb-afa6-abcf715dd4e8" width="135">
  <img src="https://github.com/user-attachments/assets/f181335e-0cff-4eb1-821a-d774502bb9d1" width="250">
  
  On the keyboard the keys A & D are used to move left and right when the space bar is pressed the character jumps in the air, and the left mouse is used to interact with the inventory slot. 
