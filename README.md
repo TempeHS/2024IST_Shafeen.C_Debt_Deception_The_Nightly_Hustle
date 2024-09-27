@@ -67,7 +67,7 @@ The objective of the game is to answer the financial literacy quiz correctly to 
   <img src="https://github.com/user-attachments/assets/6b71f98e-1da5-4197-b928-25d06ce3d311">
 
  # Other
-  <img src="https://github.com/user-attachments/assets/a5b074b5-678b-4fb3-b9bc-bddbe343bf76">
+  <img src="https://github.com/user-attachments/assets/3e71b54d-425a-4973-aad3-adaf011d6df7">
  
 # Tools used
 
